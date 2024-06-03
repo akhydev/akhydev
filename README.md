@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Coding With Zuhd</h1>
-<h3 align="center">Mobile Developer specializing in Flutter</h3>
+<h3 align="center">Mobile Developer Specializing in Flutter</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=akhydev&label=Profile%20views&color=0e75b6&style=flat" alt="akhydev" />
@@ -20,14 +20,14 @@
 ---
 
 ### 👨‍💻 About Me
+
 - 🔭 I’m currently working on [Nafsy](https://github.com/akhydev/com_nvbiledev_nafsy)
 - 🌱 I’m currently learning **Flutter, Firebase, Figma**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://codingwithzuhd.my.canva.site/)
 - 📫 How to reach me: **codingwithzuhd@proton.me**
 
----
-
 ### 📞 Connect with Me
+
 <p align="center">
   <a href="https://twitter.com/codingwithzuhd" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingwithzuhd" height="30" width="40" />
@@ -37,9 +37,8 @@
   </a>
 </p>
 
----
-
 ### 🛠️ Languages and Tools
+
 <p align="center">
   <a href="https://dart.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
@@ -61,18 +60,16 @@
   </a>
 </p>
 
----
-
 ### ☕ Support
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/CodingWithZuhd">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="CodingWithZuhd" />
   </a>
 </p>
 
----
-
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akhydev&show_icons=true&locale=en" alt="akhydev" />
 </p>
