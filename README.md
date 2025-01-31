@@ -1,71 +1,69 @@
-<h1 align="center">Hi there 👋, I'm Coding With Zuhd</h1>
-<h3 align="center">Passionate Mobile Developer Specializing in Flutter</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akhydev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://twitter.com/codingwithzuhd" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/codingwithzuhd?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-  <a href="https://github.com/akhydev" target="_blank">
-    <img src="https://img.shields.io/github/followers/akhydev?label=Follow&style=social" alt="GitHub Follow" />
-  </a>
-</p>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhydev&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=4f794d&center=true&vCenter=true&width=800&lines=👨💻+Développeur+Flutter+Créatif;🚀+Passionné+par+l'UI/UX+Moderne;⚡+Autodidacte+Curieux+et+Ambitieux" alt="Animated Header" />
 </div>
 
-## 🔍 About Me
+---
 
-- 🔭 Currently working on [Nafsy](https://github.com/akhydev/com_nvbiledev_nafsy)
-- 🌱 Learning **Flutter, Firebase, Figma**
-- 👨‍💻 Check out my projects at [My Portfolio](https://codingwithzuhd.my.canva.site/)
-- 📫 Reach me at **codingwithzuhd@proton.me**
+## 🚀 **À Propos de Moi**
+Hello ! Je suis **Zuhd**, un développeur **Flutter** passionné par le design et l'expérience utilisateur moderne. J'adore explorer de nouvelles technologies, résoudre des problèmes et créer des applications mobiles élégantes et performantes. Toujours en quête d'innovation, je transforme des idées en applications fonctionnelles et esthétiques.  
 
-## 📱 Connect with Me
+- 🔭 Actuellement, je travaille sur des projets Flutter innovants.
+- 🌱 J'explore **l'architecture logicielle avancée et l'optimisation mobile**.
+- 💡 J’aime partager mes connaissances et apprendre en continu.
+- 🎯 Objectif : Créer des applications impactantes avec **une UX fluide et intuitive**.
 
-<p align="center">
-  <a href="https://twitter.com/codingwithzuhd" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/codingwithzuhd" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+---
 
-## 💻 Languages and Tools
+## 🎮 **Mon Environnement de Dev**
+[![VS Code](https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visual-studio-code)](https://code.visualstudio.com/)
+[![MacOS](https://img.shields.io/badge/OS-MacOS-999999?logo=apple)](https://www.apple.com/macos/)
+[![iPhone](https://img.shields.io/badge/Device-iPhone_16-999999?logo=apple)](https://www.apple.com/iphone/)
+[![Android](https://img.shields.io/badge/Device-Android-3DDC84?logo=android)](https://www.android.com/)
+[![YouTube](https://img.shields.io/badge/Music-YouTube-FF0000?logo=youtube)](https://www.youtube.com/)
 
-<p align="center">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-</p>
+---
 
-## 📊 GitHub Stats
+## 🛠️ **Arsenal Technologique**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhydev&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### 📱 **Développement Mobile**
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+![Bloc](https://img.shields.io/badge/-Bloc-7E57C2?logo=flutter&logoColor=white)
 
-## ☕ Support
+### 🔥 **Backend & Base de Données**
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Hive](https://img.shields.io/badge/-Hive-FFD700?logo=hive&logoColor=black)
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/CodingWithZuhd">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-  </a>
-</p>
+### 🎨 **Design & UX**
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+
+---
+
+## 🚀 **Projets en Cours**
+| 📌 Projet | 🛠 Stack | 🚦 Statut |
+|-----------|---------|----------|
+| **[RéseauFit](https://github.com/akhydev/com_nvbiledev_reseauFit)** | Flutter, Firebase | ✅ MVP terminé |
+| **[Alternance App](https://github.com/akhydev/com_nvbiledev_alternance_app)** | Flutter, Firebase | 🎨 En développement |
+
+---
+
+## 📡 **Connectons-Nous !**
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter)](https://twitter.com/zuhddev)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram)](https://instagram.com/zuhdev)
+
+---
+
+## 💡 **Le Saviez-Vous ?**
+```dart
+void main() {
+  final zuhd = Developer(
+    skills: [Skill.flutter, Skill.creativity],
+    hobbies: [Hobby.photography, Hobby.chess],
+    motto: "Transformer des pixels en expériences vivantes 💫"
+  );
+  
+  zuhd.startCoding();
+}
+```
+💡 Un développeur passionné **ne code pas juste des applications, il construit des expériences !** 🚀
+
